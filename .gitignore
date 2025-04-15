@@ -1,4 +1,5 @@
 .env
 *.pyc
 __pycache__/
-.log
+arxiv_matches.txt
+keywords.txt
